@@ -1,2 +1,2 @@
 # DragonWars
-DragonWars app game
+DragonWars app game. Designed for Android.
