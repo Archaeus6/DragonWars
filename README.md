@@ -1,3 +1,2 @@
 # DragonWars
-DragonWars app game. Designed for Android.
-Branch test.
+DragonWars app game. Designed for Android use.
